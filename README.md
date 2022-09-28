@@ -17,7 +17,7 @@ Python dependencies used:-
 7. NLTK 3.5
 
 Check it out on
-https://sentiment-analysis-web-app.herokuapp.com
+https://san-sentimentanalyser.herokuapp.com/
 
 It might take few seconds to load please give it a try
 
